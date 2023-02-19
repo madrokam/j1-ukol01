@@ -2,7 +2,7 @@ package cz.czechitas.java.ukol01;
 
 import cz.czechitas.java.ukol01.engine.*;
 
-//Hlavni program
+// Hlavni program
 public class HlavniProgram {
     private Turtle zofka;
 
